@@ -11,13 +11,13 @@
  If you're dumb enough to use this in a live production environment with real students and a long line, may God have mercy on your soul. I'm not responsible for the clusterf*** you will unleash on your event.
 
  # how to use it
-  1) Download a copy of the sample sheet and copy it into your drive: https://docs.google.com/spreadsheets/d/1e6qBAB4X6O0tXttSj12zBEndkn6wVT49kb-FmMs1P_o/edit?usp=sharing
+  1. Download a copy of the sample sheet and copy it into your drive: https://docs.google.com/spreadsheets/d/1e6qBAB4X6O0tXttSj12zBEndkn6wVT49kb-FmMs1P_o/edit?usp=sharing
 
  (note: all the "student" data in this sheet is randomly generated and does not represent actual people. if any of these netIDs are real, it is a total coincidence.)
-  2) Go to Extensions > Apps Script and create three files matching the filenames in this repository
-  3) Copy the contents of each file into their respective files in Apps Script
-  4) Execute the main workflow script. it will error out, but that's OK.
-  5) Switch to the "Party entry" tab in the sheet and click on the "ENTER ID" button to start the script.
+  2. Go to Extensions > Apps Script and create three files matching the filenames in this repository
+  3. Copy the contents of each file into their respective files in Apps Script
+  4. Execute the main workflow script. it will error out, but that's OK.
+  5. Switch to the "Party entry" tab in the sheet and click on the "ENTER ID" button to start the script.
 
  # tools and equipment
  This script uses a simple mag stripe reader you can purchase for $15. They act as HID keyboards and type the values they scan into the cursor position.
