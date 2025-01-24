@@ -11,7 +11,7 @@
  If you're dumb enough to use this in a live production environment with real students and a long line, may God have mercy on your soul. I'm not responsible for the clusterf*** you will unleash on your event.
 
  # how to use it
-  1. Download a copy of the sample sheet and copy it into your drive: https://docs.google.com/spreadsheets/d/1e6qBAB4X6O0tXttSj12zBEndkn6wVT49kb-FmMs1P_o/edit?usp=sharing >(note: all the "student" data in this sheet is randomly generated and does not represent actual people. if any of these netIDs are real, it is a total coincidence.)
+  1. Download a copy of the sample sheet and copy it into your drive: https://docs.google.com/spreadsheets/d/1e6qBAB4X6O0tXttSj12zBEndkn6wVT49kb-FmMs1P_o/edit?usp=sharing \>(note: all the "student" data in this sheet is randomly generated and does not represent actual people. if any of these netIDs are real, it is a total coincidence.)
   2. Go to Extensions > Apps Script and create three files matching the filenames in this repository
   3. Copy the contents of each file into their respective files in Apps Script
   4. Execute the main workflow script. it will error out, but that's OK.
